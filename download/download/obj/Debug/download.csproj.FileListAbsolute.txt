@@ -1,0 +1,7 @@
+C:\knu\spz\1\1\download\download\bin\Debug\download.exe.config
+C:\knu\spz\1\1\download\download\bin\Debug\download.exe
+C:\knu\spz\1\1\download\download\bin\Debug\download.pdb
+C:\knu\spz\1\1\download\download\obj\Debug\download.csproj.AssemblyReference.cache
+C:\knu\spz\1\1\download\download\obj\Debug\download.csproj.CoreCompileInputs.cache
+C:\knu\spz\1\1\download\download\obj\Debug\download.exe
+C:\knu\spz\1\1\download\download\obj\Debug\download.pdb
